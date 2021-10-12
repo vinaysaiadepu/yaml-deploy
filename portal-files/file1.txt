@@ -1,3 +1,3 @@
 This is file1
 file1 edited to test edit file deploy to server
-3rd commit
+3rd commit.
